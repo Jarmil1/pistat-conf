@@ -1,0 +1,52 @@
+[
+  {
+    "redmine_id": "ao",
+    "stat_id": "AO",
+    "department_name": "Administrativni odbor"
+  },
+  {
+    "redmine_id": "kancelar-strany",
+    "stat_id": "KANCL",
+    "department_name": "Kancelar strany"
+  },
+  {
+    "redmine_id": "kk",
+    "stat_id": "KK",
+    "department_name": "Kontrolni komise"
+  },
+  {
+    "redmine_id": "medialni-odbor",
+    "stat_id": "MO",
+    "department_name": "Medialni odbor"
+  },
+  {
+    "redmine_id": "po",
+    "stat_id": "PO",
+    "department_name": "Personalni odbor"
+  },
+  {
+    "redmine_id": "pravni-tym",
+    "stat_id": "PRAVNI",
+    "department_name": "Pravni tym"
+  },
+  {
+    "redmine_id": "rp",
+    "stat_id": "RP",
+    "department_name": "Republikove predsednictvo"
+  },
+  {
+    "redmine_id": "republikovy-vybor",
+    "stat_id": "RV",
+    "department_name": "Republikovy vybor"
+  },
+  {
+    "redmine_id": "to",
+    "stat_id": "TO",
+    "department_name": "Technicky odbor"
+  },
+  {
+    "redmine_id": "zo",
+    "stat_id": "ZO",
+    "department_name": "Zahranicni odbor"
+  }
+]
